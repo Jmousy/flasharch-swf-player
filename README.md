@@ -18,3 +18,6 @@
 * Explore FlashArch archived content with tons of flash preserved. You can find and run the content you want.
 * Safe for security. And powerful running performance!
 * Free software with no ads or charges.
+
+## 디스코드에서 더 많은 정보 얻기! / Join our Discord for more info!
+https://discord.com/invite/guQ9Afn
