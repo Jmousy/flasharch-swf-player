@@ -13,8 +13,6 @@ I'm not the official developer of Ruffle. For issues and documentation related t
 
 ## 💾 다운로드 / Downloads
 
-🔗 **GitHub Release** | https://github.com/Jmousy/flasharch-player/releases
-
 🔗 **Website** | https://flasharch.com/downloads
 
 🔗 **Snapcraft (For Linux)** | https://snapcraft.io/flasharch
